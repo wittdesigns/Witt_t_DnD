@@ -103,3 +103,13 @@ footer {
 #buttonHolder img:hover {
 	opacity:.5;
 }
+
+
+#headLine h1 {
+	transition: all 1.5s ease;
+}
+
+/*that class it will be called only in the js*/
+.orange-headline {
+	color: orange
+}
